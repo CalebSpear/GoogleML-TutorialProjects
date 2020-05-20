@@ -1,0 +1,1 @@
+labs() can be used for titles, subtitles, axis labels, captions, and legend titles. You can annotate your plot with geom_text. Ggrepel can make labels more readable.You can save your plot with ggsave and adjust sizes with fig.* and out.*
